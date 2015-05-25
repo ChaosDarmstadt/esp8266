@@ -1,6 +1,7 @@
 Fun projects with ESP8266 IoT chip
 
 ## ESPLight
+![alt tag](https://wiki.chaos-darmstadt.de/w/images/thumb/ESPLight.jpg/800px-ESPLight.jpg)
 ESP8266 and WS2812 based, wifi enabled LED matrix.
 What you need:
 
