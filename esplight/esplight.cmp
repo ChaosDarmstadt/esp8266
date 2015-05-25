@@ -1,0 +1,136 @@
+Cmp-Mod V01 Created by CvPcb (2013-may-18)-stable date = Wed 29 Apr 2015 02:14:51 AM CEST
+
+BeginCmp
+TimeStamp = /553E86FD;
+Reference = C1;
+ValeurCmp = 0.1u;
+IdModule  = C2;
+EndCmp
+
+BeginCmp
+TimeStamp = /553E870C;
+Reference = C2;
+ValeurCmp = 22u;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /553EA07C;
+Reference = CON1;
+ValeurCmp = BARREL_JACK;
+IdModule  = BARREL_JACK;
+EndCmp
+
+BeginCmp
+TimeStamp = /553E9AB6;
+Reference = CON2;
+ValeurCmp = CONN_FTDI;
+IdModule  = PIN_ARRAY-6X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /553E9E37;
+Reference = CON3;
+ValeurCmp = CONN_WS2812;
+IdModule  = PIN_ARRAY_3X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /553C0795;
+Reference = IC1;
+ValeurCmp = ESP-12/07V2/08V2;
+IdModule  = ESP-07v2;
+EndCmp
+
+BeginCmp
+TimeStamp = /553E8570;
+Reference = PWR1;
+ValeurCmp = TLV-2217;
+IdModule  = TO220_VERT;
+EndCmp
+
+BeginCmp
+TimeStamp = /553E8C67;
+Reference = R1;
+ValeurCmp = 10k;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /553E8C8F;
+Reference = R2;
+ValeurCmp = 10k;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /553E8C9E;
+Reference = R3;
+ValeurCmp = 10k;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /553E8CAD;
+Reference = R4;
+ValeurCmp = 10k;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /553E8CBC;
+Reference = R5;
+ValeurCmp = 10k;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /553E8CCB;
+Reference = R6;
+ValeurCmp = 10k;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /553E8AF4;
+Reference = SW1;
+ValeurCmp = SW_PUSH;
+IdModule  = PBS-10;
+EndCmp
+
+BeginCmp
+TimeStamp = /553E8A8F;
+Reference = SW2;
+ValeurCmp = SW_PUSH;
+IdModule  = PBS-10;
+EndCmp
+
+BeginCmp
+TimeStamp = /553E8B07;
+Reference = SW3;
+ValeurCmp = SW_PUSH;
+IdModule  = PBS-10;
+EndCmp
+
+BeginCmp
+TimeStamp = /553E8B28;
+Reference = SW4;
+ValeurCmp = SW_PUSH;
+IdModule  = PBS-10;
+EndCmp
+
+BeginCmp
+TimeStamp = /553E8B37;
+Reference = SW5;
+ValeurCmp = SW_PUSH;
+IdModule  = PBS-10;
+EndCmp
+
+BeginCmp
+TimeStamp = /553E8B46;
+Reference = SW6;
+ValeurCmp = SW_PUSH;
+IdModule  = PBS-10;
+EndCmp
+
+EndListe

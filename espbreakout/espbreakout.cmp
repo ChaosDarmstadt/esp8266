@@ -1,0 +1,38 @@
+Cmp-Mod V01 Created by CvPcb (2013-may-18)-stable date = Sun 17 May 2015 06:24:28 PM CEST
+
+BeginCmp
+TimeStamp = /55475D3D;
+Reference = IC1;
+ValeurCmp = ESP-07;
+IdModule  = ESP-07v2;
+EndCmp
+
+BeginCmp
+TimeStamp = /554765C8;
+Reference = P1;
+ValeurCmp = CONN_8;
+IdModule  = PINHEAD1-8;
+EndCmp
+
+BeginCmp
+TimeStamp = /554765B9;
+Reference = P2;
+ValeurCmp = CONN_8;
+IdModule  = PINHEAD1-8;
+EndCmp
+
+BeginCmp
+TimeStamp = /55476662;
+Reference = RST1;
+ValeurCmp = SW_PUSH_SMALL;
+IdModule  = SW_PUSH_SMALL;
+EndCmp
+
+BeginCmp
+TimeStamp = /5558C067;
+Reference = SW1;
+ValeurCmp = SW_PUSH_SMALL;
+IdModule  = SW_PUSH_SMALL;
+EndCmp
+
+EndListe
